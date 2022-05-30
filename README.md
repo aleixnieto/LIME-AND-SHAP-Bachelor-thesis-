@@ -1,2 +1,2 @@
-# FINAL-THESIS
+# TFG
 Final Degree Project in Explainable Artificial Intelligence
