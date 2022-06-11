@@ -1,2 +1,3 @@
 # TFG
-Final Degree Project in Explainable Artificial Intelligence
+Aleix Nieto Juscafresa
+Final Degree Project: An introduction to explainable artificial intelligence with LIME and SHAP
