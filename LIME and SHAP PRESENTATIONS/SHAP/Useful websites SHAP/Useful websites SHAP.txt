@@ -1,0 +1,11 @@
+https://papers.nips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html
+
+https://stats.stackexchange.com/questions/389162/characteristics-of-shapley-values
+
+https://www.youtube.com/watch?v=9OFMRiAVH-w&ab_channel=MachineLearningTV
+
+https://ypei.org/posts/2018-12-02-lime-shapley.html#shapley-values
+
+https://en.wikipedia.org/wiki/Shapley_value
+
+https://github.com/slundberg/shap/issues/1054
