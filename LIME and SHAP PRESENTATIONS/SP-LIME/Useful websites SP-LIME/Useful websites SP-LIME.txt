@@ -1,0 +1,13 @@
+https://blog.ml.cmu.edu/2020/08/31/6-interpretability/
+
+https://medium.com/dataman-in-ai/explain-your-model-with-lime-5a1a5867b423
+
+https://www.data4v.com/an-introduction-to-interpretable-machine-learning-with-lime-and-shap/
+
+https://towardsdatascience.com/decrypting-your-machine-learning-model-using-lime-5adc035109b5
+
+https://towardsdatascience.com/lime-explain-machine-learning-predictions-af8f18189bfe
+
+http://tpgmartin.com/shining-a-light-on-black-box-models-with-lime
+
+https://www.kdnuggets.com/2019/12/interpretability-part-3-lime-shap.html
