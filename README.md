@@ -1,4 +1,4 @@
-# TFG
+# Comparison between LIME and SHAP - Bachelor Thesis in Mathematics
 
 **Universitat de Barcelona / University of Barcelona**
 
